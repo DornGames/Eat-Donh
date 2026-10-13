@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>吃𣿅人</title>
+</head>
+<body>
+    <header>
+        <h1>吃𣿅人游戏</h1>
+        <div class="subtitle">使用 WASD 键控制游戏角色，吃掉所有𣿅子并躲避小怪！</div>
+    </header>
+    <div class="game-container">
+        <canvas id="gameCanvas" width="800" height="500"></canvas>
+
+        <div class="game-message" id="gameMessage">
+            <div class="message-title" id="messageTitle">游戏结束</div>
+            <div class="message-text" id="messageText"></div>
+            <button class="restart-btn" id="restartBtn">重新开始</button>
+        </div>
+    </div>
+    <div class="game-ui">
+        <div class="score-container">
+            <div class="ui-label">得分</div>
+            <div class="ui-value" id="score">0</div>
+        </div>
+
+        <div class="lives-container">
+            <div class="ui-label">生命</div>
+            <div class="ui-value" id="lives">3</div>
+        </div>
+    </div>
+    <div class="controls">
+        <h2>控制按键</h2>
+        <div class="key-container">
+            <div class="key-row">
+                <div class="key" id="keyW">W</div>
+            </div>
+            <div class="key-row">
+                <div class="key" id="keyA">A</div>
+                <div class="key" id="keyS">S</div>
+                <div class="key" id="keyD">D</div>
+            </div>
+        </div>
+    </div>
+    <div class="instructions">
+        <h2>游戏说明</h2>
+        <ul>
+            <li>使用 <strong>WASD</strong> 键控制吃𣿅人上下左右移动</li>
+            <li>吃掉所有黄色的𣿅子获得分数</li>
+            <li>避开红色的小怪，碰到小怪会失去一条生命</li>
+            <li>紫色的大𣿅子可以让你暂时获得无敌状态并加速</li>
+            <li>游戏共有3条生命，全部失去则游戏结束</li>
+            <li>收集所有𣿅子即可获胜</li>
+        </ul>
+    </div>
+    <footer>
+        DornGames &copy; 2026
+        <br>健康游戏忠告 抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当 适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活
+    </footer>
+</body>
+<script src="index.js"></script>
+</html>

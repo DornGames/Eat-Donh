@@ -54,7 +54,7 @@
 
 You can play **Eat Donh (TonhTze Pac-Man)** at either of the following addresses:
 
-- 🌐 **Official site:** [https://dornhub.eu.org/games/eat-donh](https://dornhub.eu.org/games/eat-donh)
+- 🌐 **Official site:** [https://dornhub.eu.org/games/eat-donh](https://dornhub.eu.org/games/eat-donh/index.html)
 - 🐙 **GitHub Pages:** [https://dorngames.github.io/Eat-Donh](https://dorngames.github.io/Eat-Donh)
 
 1. Open either link in any modern browser.
@@ -179,7 +179,7 @@ DornGames & Dorn Hub
 
 您可以通过以下任一地址游玩 **《吃𣿅人》**：
 
-- 🌐 **官方网站：** [https://dornhub.eu.org/games/eat-donh](https://dornhub.eu.org/games/eat-donh)
+- 🌐 **官方网站：** [https://dornhub.eu.org/games/eat-donh](https://dornhub.eu.org/games/eat-donh/index.html)
 - 🐙 **GitHub Pages：** [https://dorngames.github.io/Eat-Donh](https://dorngames.github.io/Eat-Donh)
 
 1. 用任意现代浏览器打开上面任一链接。

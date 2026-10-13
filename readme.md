@@ -3,7 +3,7 @@
 
 ## About the Game
 
-**Eat Donh (TonhTze Pac-Man)** is a complete arcade game built with HTML5 Canvas and vanilla JavaScript. It is a **HTML/CSS/JavaScript reset** of the classic Pac-Man concept, reimagined with the "𣿅国" (Tonh Nation) character "𣿅子" as the playable protagonist. Collect all the glowing dots (湩子) scattered across the grid, gobble up power dots (能量湩) to turn the tables on pursuing ghosts, and clear the board to win. All graphics are rendered using the Canvas 2D API, delivering a nostalgic arcade experience with smooth 60 FPS gameplay.
+**Eat Donh (TonhTze Pac-Man)** is a complete arcade game built with HTML5 Canvas and vanilla JavaScript. It is a **HTML/CSS/JavaScript reset** of the classic Pac-Man concept, reimagined with the "𣿅国" (Donh) character "𣿅子" as the playable protagonist. Collect all the glowing dots (湩子) scattered across the grid, gobble up power dots (能量湩) to turn the tables on pursuing ghosts, and clear the board to win. All graphics are rendered using the Canvas 2D API, delivering a nostalgic arcade experience with smooth 60 FPS gameplay.
 
 ---
 
